@@ -50,19 +50,6 @@ PennyWise is a Django-based web application designed to help users manage their 
 - Django 3.2+
 - MySQL
 
-## Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mehnaz2004/PennyWise_Django.git
-   cd PennyWise_Django
-python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver
 
 
 
