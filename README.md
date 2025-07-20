@@ -1,10 +1,10 @@
-# 💰 PennyWise
+#  PennyWise
 
 PennyWise is a Django-based web application designed to help users manage their finances effectively. This application provides various features including expense tracking, budget management, and financial analysis.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Expense Tracking**: Log your daily expenses with ease.
 - **Budget Management**: Set and monitor budgets for different categories.
@@ -17,7 +17,7 @@ PennyWise is a Django-based web application designed to help users manage their 
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Python**: Programming language used for backend logic.
 - **Django**: Web framework for rapid development and clean design.
