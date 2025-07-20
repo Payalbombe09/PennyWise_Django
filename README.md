@@ -56,3 +56,33 @@ PennyWise is a Django-based web application designed to help users manage their 
    ```bash
    git clone https://github.com/Mehnaz2004/PennyWise_Django.git
    cd PennyWise_Django
+2. Create a virtual environment and activate it:
+python -m venv env
+source env/bin/activate  # On Windows use `env\Scripts\activate`
+3. Install the required packages:
+pip install -r requirements.txt
+4. Set up the database
+python manage.py makemigrations
+python manage.py migrate
+5. Create a superuser:
+python manage.py createsuperuser
+6. Run the development server:
+python manage.py runserver
+7. Open your browser and go to http://127.0.0.1:8000/ to see the application in action.
+
+ Usage
+Register for a new account or log in with existing credentials.
+
+Navigate through the dashboard to add expenses, set budgets, and view financial analysis.
+
+Use the profile section to update personal details and manage account settings.
+
+ Contact
+For any questions or suggestions, feel free to reach out:
+
+GitHub: Payalbombe09
+
+LinkedIn: Payal Bombe
+
+
+
